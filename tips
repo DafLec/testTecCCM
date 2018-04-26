@@ -1,3 +1,6 @@
 git init    hace que la carpeta sea un repositorio
 git add .     modificaciones y nuevos
 git add --all      modificaciones, nuevos y eliminados
+git commit -m "message"    hace el commit con la descripcion escrita dentro de message
+git remote add origin [url]     liga la carpeta con el repositorio
+git remote -v      muestra a que liga va origin
