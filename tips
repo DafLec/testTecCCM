@@ -1,0 +1,3 @@
+git init    hace que la carpeta sea un repositorio
+git add .     modificaciones y nuevos
+git add --all      modificaciones, nuevos y eliminados
